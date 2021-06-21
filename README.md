@@ -14,3 +14,13 @@ Enhance your writing
 This package is not exactly a clone of Grammarly but can be considered as a basic version of it, as it provides some common features. For now, gingerit works only with the English language.
 
 
+![Web capture_21-6-2021_214051_127 0 0 1](https://user-images.githubusercontent.com/70314729/122796092-a30ad900-d2db-11eb-891f-6092e8502b1e.jpeg)
+
+
+
+
+
+
+![Web capture_21-6-2021_214024_127 0 0 1](https://user-images.githubusercontent.com/70314729/122796040-971f1700-d2db-11eb-88ee-674f4d2d2586.jpeg)
+
+
